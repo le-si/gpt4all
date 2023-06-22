@@ -1,6 +1,7 @@
 [
   {
     "md5sum": "81a09a0ddf89690372fc296ff7f625af",
+    "name": "Groovy",
     "filename": "ggml-gpt4all-j-v1.3-groovy.bin",
     "filesize": "3785248281",
     "isDefault": "true",
@@ -9,6 +10,7 @@
   },
   {
     "md5sum": "11d9f060ca24575a2c303bdc39952486",
+    "name": "Snoozy",
     "filename": "GPT4All-13B-snoozy.ggmlv3.q4_0.bin",
     "filesize": "8136770688",
     "requires": "2.4.7",
@@ -19,6 +21,7 @@
   },
   {
     "md5sum": "756249d3d6abe23bde3b1ae272628640",
+    "name": "MPT Chat",
     "filename": "ggml-mpt-7b-chat.bin",
     "filesize": "4854401050",
     "isDefault": "true",
@@ -28,6 +31,7 @@
   },
   {
     "md5sum": "4acc146dd43eb02845c233c29289c7c5",
+    "name": "Hermes",
     "filename": "nous-hermes-13b.ggmlv3.q4_0.bin",
     "filesize": "8136777088",
     "requires": "2.4.7",
@@ -36,30 +40,35 @@
   },
   {
     "md5sum": "29119f8fa11712704c6b22ac5ab792ea",
+    "name": "Vicuna 7B",
     "filename": "ggml-vicuna-7b-1.1-q4_2.bin",
     "filesize": "4212859520",
     "description": "LLaMA 7B finetuned by teams from UC Berkeley, CMU, Stanford, MBZUAI, and UC San Diego.<br>- Cannot be used commercially."
   },
   {
     "md5sum": "95999b7b0699e2070af63bf5d34101a8",
+    "name": "Vicuna 13B",
     "filename": "ggml-vicuna-13b-1.1-q4_2.bin",
     "filesize": "8136770688",
     "description": "LLaMA 13B trained by teams from UC Berkeley, CMU, Stanford, MBZUAI, and UC San Diego.<br>- Cannot be used commercially."
   },
   {
     "md5sum": "99e6d129745a3f1fb1121abed747b05a",
+    "name": "Wizard 7B",
     "filename": "ggml-wizardLM-7B.q4_2.bin",
     "filesize": "4212864640",
     "description": "LLaMA 7B finetuned by Microsoft and Peking University.<br>- Cannot be used commercially."
   },
   {
     "md5sum": "6cb4ee297537c9133bddab9692879de0",
+    "name": "Stable Vicuna",
     "filename": "ggml-stable-vicuna-13B.q4_2.bin",
     "filesize": "8136777088",
     "description": "LLaMa 13B finetuned with RLHF by Stability AI.<br>- Cannot be used commercially."
   },
   {
     "md5sum": "120c32a51d020066288df045ef5d52b9",
+    "name": "MPT Base",
     "filename": "ggml-mpt-7b-base.bin",
     "filesize": "4854401028",
     "requires": "2.4.1",
@@ -67,12 +76,14 @@
   },
   {
     "md5sum": "d5eafd5b0bd0d615cfd5fd763f642dfe",
+    "name": "Nous Vicuna",
     "filename": "ggml-nous-gpt4-vicuna-13b.bin",
     "filesize": "8136777088",
     "description": "LLaMa 13B fine-tuned on ~180,000 instructions by Nous Research.<br>- Cannot be used commercially."
   },
   {
     "md5sum": "1cfa4958f489f0a0d1ffdf6b37322809",
+    "name": "MPT Instruct",
     "filename": "ggml-mpt-7b-instruct.bin",
     "filesize": "4854401028",
     "requires": "2.4.1",
@@ -80,6 +91,7 @@
   },
   {
     "md5sum": "489d21fd48840dcb31e5f92f453f3a20",
+    "name": "Wizard Uncensored",
     "filename": "wizardLM-13B-Uncensored.ggmlv3.q4_0.bin",
     "filesize": "8136777088",
     "requires": "2.4.7",
@@ -88,6 +100,7 @@
   },
   {
     "md5sum": "615890cb571fcaa0f70b2f8d15ef809e",
+    "name": "Replit",
     "filename": "ggml-replit-code-v1-3b.bin",
     "filesize": "5202046853",
     "requires": "2.4.7",
